@@ -490,7 +490,7 @@ WIP
 
 - **[41. Heap - Sort](./134-heap_to_sorted_array.c)**
 
-	**(./133-heap_extract.c)**
+	**[./133-heap_extract.c]**
 
 	- Write a function that converts a Binary Max Heap to a sorted array of integers
 
