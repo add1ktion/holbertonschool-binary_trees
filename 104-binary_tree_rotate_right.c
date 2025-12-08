@@ -22,7 +22,7 @@ binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree)
 	tree->parent = new;
 
 	if (tmp != NULL)
-		tmp->parent = new;
+		tmp->parent = tree;
 
 	return (new);
 }
