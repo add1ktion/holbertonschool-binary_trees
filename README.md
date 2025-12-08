@@ -256,7 +256,7 @@ WIP
 
 - **[25. BST - Insert](./111-bst_insert.c)**
 
-	**(./0-binary_tree_node.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
 
 	- Write a function that inserts a value in a Binary Search Tree
 
@@ -272,8 +272,8 @@ WIP
 
 - **[26. BST - Array to BST](./112-array_to_bst.c)**
 
-	**(./111-bst_insert.c)**
-	**(./0-binary_tree_node.c)**
+	**[111-bst_insert.c](./111-bst_insert.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
 
 	- Write a function that builds a Binary Search Tree from an array
 
@@ -347,10 +347,10 @@ WIP
 
 - **[32. AVL - Insert](./121-avl_insert.c)**
 
-	**(./14-binary_tree_balance.c)**
-	**(./103-binary_tree_rotate_left.c)**
-	**(./104-binary_tree_rotate_right.c)**
-	**(./0-binary_tree_node.c)**
+	**[14-binary_tree_balance.c](./14-binary_tree_balance.c)**
+	**[103-binary_tree_rotate_left.c](./103-binary_tree_rotate_left.c)**
+	**[104-binary_tree_rotate_right.c](./104-binary_tree_rotate_right.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
 
 	- Write a function that inserts a value in an AVL Tree
 
@@ -366,11 +366,11 @@ WIP
 
 - **[33. AVL - Array to AVL](./122-array_to_avl.c)**
 
-	**(./121-avl_insert.c)**
-	**(./0-binary_tree_node.c)**
-	**(./103-binary_tree_rotate_left.c)**
-	**(./104-binary_tree_rotate_right.c)**
-	**(./14-binary_tree_balance.c)**
+	**[121-avl_insert.c](./121-avl_insert.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
+	**[103-binary_tree_rotate_left.c](./103-binary_tree_rotate_left.c)**
+	**[104-binary_tree_rotate_right.c](./104-binary_tree_rotate_right.c)**
+	**[14-binary_tree_balance.c](./14-binary_tree_balance.c)**
 
 	- Write a function that builds an AVL tree from an array
 
@@ -385,9 +385,9 @@ WIP
 
 - **[34. AVL - Remove](./123-avl_remove.c)**
 
-	**(./14-binary_tree_balance.c)**
-	**(./103-binary_tree_rotate_left.c)**
-	**(./104-binary_tree_rotate_right.c)**
+	**[14-binary_tree_balance.c](./14-binary_tree_balance.c)**
+	**[103-binary_tree_rotate_left.c](./103-binary_tree_rotate_left.c)**
+	**[104-binary_tree_rotate_right.c](./104-binary_tree_rotate_right.c)**
 
 	- Write a function that removes a node from an AVL tree
 
@@ -404,7 +404,7 @@ WIP
 
 - **[35. AVL - From sorted array](./124-sorted_array_to_avl.c)**
 
-	**(./0-binary_tree_node.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
 
 	- Write a function that builds an AVL tree from an array
 
@@ -446,7 +446,7 @@ WIP
 
 - **[38. Heap - Insert](./131-heap_insert.c)**
 
-	**(./0-binary_tree_node.c)**
+	**[0-binary_tree_node.c](./0-binary_tree_node.c)**
 
 	- Write a function that inserts a value in Max Binary Heap
 
@@ -490,7 +490,7 @@ WIP
 
 - **[41. Heap - Sort](./134-heap_to_sorted_array.c)**
 
-	**[./133-heap_extract.c]**
+	**[133-heap_extract.c](./133-heap_extract.c)**
 
 	- Write a function that converts a Binary Max Heap to a sorted array of integers
 
