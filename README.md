@@ -10,7 +10,6 @@
     	- When created, a node does not have any child
     	- Your function must return a pointer to the new node, or NULL on failure
 
-WIP
 
 - **[1. Insert left](./1-binary_tree_insert_left.c)**
 
